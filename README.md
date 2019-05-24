@@ -4,3 +4,7 @@
 
 - [x] flattenDictionary
 - [x] findPairsWithGivenDifference
+
+> ## week1
+
+- [x] shiftedArraySearch
