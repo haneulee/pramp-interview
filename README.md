@@ -5,6 +5,14 @@
 - [x] flattenDictionary
 - [x] findPairsWithGivenDifference
 
-> ## week1
+> ## week2
 
 - [x] shiftedArraySearch
+
+> ## week3
+
+- [x] numberOfPaths
+
+> ## week4
+
+- [x] salesPath
